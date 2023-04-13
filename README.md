@@ -7,7 +7,7 @@ to run copy paste the entire document into the P5 editor.
 
 https://editor.p5js.org/
 or check it out on my website 
-https://developkr.tech/Weekenders/hydrangers.html
+https://developkr.tech/Weekenders/hydrangeas.html
 
 Or alternativly run it via local host on VS code, requires some setup. Learn more at p5.js
 
