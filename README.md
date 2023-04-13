@@ -1,4 +1,7 @@
 ﻿# flowers-P5
+ 
+ an exercise in forward kinematics and Mathematical "Rose petals" r = a cos (k theta), each stem in represents the an element in a singly linked list.
+ Interact with the flowers with your mouse. 
 
 to run copy paste the entire document into the P5 editor. 
 
