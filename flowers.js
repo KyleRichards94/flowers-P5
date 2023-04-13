@@ -206,9 +206,6 @@ let Pollen = [];
 function setup() {
     var canvas = createCanvas(1080, 500);
 
-    grad = loadImage('/./Images/Gradient.png');
-    
-    canvas.parent('flowerFrame');
     
 
     for (let i = 0; i < 700; i++) {
